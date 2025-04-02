@@ -80,4 +80,4 @@ WHERE sc.score_value < 10;
 This project is open-source and available under the **MIT License**.  
 
 👤 **Ilias Maatallaoui** 
-🔗 GitHub: [[your GitHub profile](https://github.com/iliasmaatallaoui/)]  
+🔗 GitHub: [[GitHub profile](https://github.com/iliasmaatallaoui/)]  
