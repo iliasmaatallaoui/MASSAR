@@ -30,7 +30,7 @@ Ensure you have **SQLite** installed on your system.
 ### 🔹 Setup  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/massar-database.git
+   git clone https://github.com/iliasmaatallaoui/massar-database.git
    cd massar-database
    ```
 2. Initialize the database using the provided schema:  
